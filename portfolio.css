@@ -1,0 +1,117 @@
+@import url('https://fonts.googleapis.com/css?family=Days+One|Yeseva+One');
+
+body {
+background: url("images/concrete.png");
+}
+
+h1 {
+text-align: center;
+font-family: "Days One";
+font-size: 50px;
+color: white;
+background: url("images/zigzag.png");
+padding-top: 50px;
+padding-bottom: 50px;
+margin: 0px;
+opacity: 0.85;
+text-align: center;
+}
+
+h2 {
+font-size: 40px;
+margin-bottom: 15px;
+font-family: "Days One";
+}
+
+.customnav {
+background: url("images/seam.png");
+font-size: 24px;
+font-family: "Days One";
+text-align: center;
+margin-bottom: 50px;
+padding: 15px;
+
+}
+
+a:link, a:visited {
+text-decoration: none;
+padding-right: 20px;
+padding-left: 20px;
+color: dodgerblue;
+}
+
+a:hover {
+background-color:beige;
+color: mediumpurple;
+}
+
+.sectioncontainer {
+width: auto;
+padding: 15px;
+font-size: 20px;
+text-align: center;
+font-family: "Times New Roman";
+opacity: 85px;
+}
+
+p {
+padding: 50px;
+font-family: "Times New Roman";
+margin: 10px;
+text-align:justify;
+}
+
+.contact {
+padding: 10px;
+font-family: "Yeseva One";
+margin: 10px;
+text-align:center;
+}
+
+.bandpic {
+border: 5px solid black;
+width: auto;
+height: 180px;
+}
+
+#merchcarousel {
+width: 300px;
+height: auto;
+margin-left: auto;
+margin-right: auto;
+}
+
+.tour {
+border: 2px solid black; 
+background: url("images/seam.png");
+margin-left: 225px;
+margin-right: 225px;
+}
+
+.apics {
+border: 3px solid black; 
+background: url("images/seam.png");
+margin-left: 125px;
+margin-right: 125px;
+margin-bottom: 25px;
+padding-bottom: 50px;
+}
+
+.aband {
+border: 2px solid black; 
+background: url("images/seam.png");
+margin-left: 225px;
+margin-right: 225px;
+}
+
+.albumstuff {
+border: 5px solid black; 
+background: url("images/seam.png");
+margin-left: 100px;
+margin-right: 100px;
+padding-bottom: 30px;
+}
+
+.albumpic {
+border-radius: 15px;
+}

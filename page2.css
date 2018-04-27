@@ -1,0 +1,81 @@
+@import url('https://fonts.googleapis.com/css?family=Days+One|Yeseva+One');
+
+body {
+background: url("images/concrete.png");
+}
+
+h1 {
+text-align: center;
+font-family: "Days One";
+font-size: 50px;
+color: white;
+background: url("images/zigzag.png");
+padding-top: 50px;
+padding-bottom: 50px;
+margin: 0px;
+opacity: 0.85;
+}
+
+p {
+padding: 10px;
+font-family: "Times New Roman";
+margin: 10px;
+text-align:justify;
+}
+
+.customnav {
+background: url("images/seam.png");
+font-size: 24px;
+font-family: "Days One";
+text-align: center;
+margin-bottom: 50px;
+padding: 15px;
+
+}
+
+a:link, a:visited {
+text-decoration: none;
+padding-right: 20px;
+padding-left: 20px;
+color: dodgerblue;
+}
+
+a:hover {
+background-color:beige;
+color: mediumpurple;
+}
+
+.sectioncontainer {
+width: auto;
+padding: 15px;
+font-size: 20px;
+text-align: center;
+font-family: "Times New Roman";
+opacity: 85px;
+}
+
+#map {
+  height: 450px;
+  border-radius: 25px;
+}
+
+.main {
+  background-color: rgba(34, 55, 71, 0.8);
+  border-radius: 25px;
+  margin-left: 10%;
+  margin-right: 10%;
+  min-height: 350px;
+  padding: 25px;
+  color: #add4ff;
+  font-family: "Poppins";
+  font-size: 16px;
+}
+
+.apics {
+border: 3px solid black; 
+background: url("images/seam.png");
+margin-left: 125px;
+margin-right: 125px;
+margin-bottom: 25px;
+padding-bottom: 50px;
+}
