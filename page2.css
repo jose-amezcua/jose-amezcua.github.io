@@ -17,8 +17,8 @@ opacity: 0.85;
 }
 
 p {
-padding: 10px;
-font-family: "Times New Roman";
+padding: 50px;
+font-family: "Open Sans";
 margin: 10px;
 text-align:justify;
 }
@@ -50,7 +50,7 @@ width: auto;
 padding: 15px;
 font-size: 20px;
 text-align: center;
-font-family: "Times New Roman";
+font-family: "Open Sans";
 opacity: 85px;
 }
 
